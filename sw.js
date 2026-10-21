@@ -1,4 +1,4 @@
-const CACHE='english-bloom-v1';
+const CACHE='english-bloom-v4';
 const SHELL=['./','./index.html','./styles.css','./app.js','./config.js','./demo.json','./manifest.webmanifest','./assets/garden.svg','./assets/icon-192.png','./assets/icon-512.png'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(c=>c.addAll(SHELL)));self.skipWaiting()});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('english-bloom-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim()))});
