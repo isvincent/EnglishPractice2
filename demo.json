@@ -1,0 +1,35 @@
+{
+  "ok": true,
+  "headers": [
+    "日期",
+    "主題",
+    "單字",
+    "句型",
+    "閱讀與題目",
+    "翻譯或寫作",
+    "解答與解析",
+    "輸入Token",
+    "輸出Token",
+    "思考Token",
+    "寄送時間"
+  ],
+  "rows": [
+    {
+      "id": "sample-1",
+      "cells": [
+        "2026-10-21",
+        "Small steps, big changes｜小習慣的力量",
+        "**habit (n.) 習慣**\n搭配：develop a habit\nReading daily is a useful habit. 每天閱讀是實用的習慣。\n\n**improve (v.) 改善**\n搭配：improve your skills\nPractice can improve your skills. 練習能增進技能。\n\n**consistent (adj.) 持續一致的**\n搭配：consistent effort\nConsistent effort makes a difference. 持續的努力會帶來改變。\n\n**goal (n.) 目標**\n搭配：set a goal\nSet a small goal each week. 每週設定一個小目標。\n\n**reflect (v.) 反思**\n搭配：reflect on an experience\nTake time to reflect on your experience. 花時間反思你的經驗。",
+        "**By + V-ing, S + can + V**\n透過某種行動，可以達到某種結果。\nBy practicing daily, you can build confidence.\n透過每天練習，你可以建立信心。",
+        "When Mia decided to improve her English, she made an ambitious plan. She would read a long article, memorize twenty words, and write a page every evening. The plan worked for three days. Then a school project took most of her time, and she stopped completely.\n\nHer teacher suggested a smaller goal: read one paragraph and write one sentence each day. At first, Mia thought this would be too easy to matter. However, she could finish the task even on busy days. She began to notice useful expressions in the articles and tried them in her own sentences.\n\nAfter several weeks, Mia looked back at her notebook. The early sentences were short and simple, but the newer ones expressed more detailed ideas. She had not studied for hours each day. Instead, she had built a routine that fitted her life. Now, when she has extra time, she reads more. When she is tired, she still completes her small task. For Mia, progress is no longer about following a perfect plan. It is about returning to a useful habit, one day at a time.\n\n1. Why did Mia stop following her first plan?\n(A) She disliked English. (B) It was difficult to maintain during busy days. (C) Her teacher stopped her. (D) She lost her notebook.\n\n2. What is the main idea?\n(A) Long articles are always better. (B) Small, manageable habits can support progress. (C) Writing is unnecessary. (D) Busy students cannot learn.",
+        "中譯英：透過每天設定一個小目標，我們可以逐漸建立信心。",
+        "1. B：學校專題占用時間，原計畫難以持續。\n2. B：較小而可持續的習慣幫助Mia累積進步。\n翻譯參考：By setting a small goal every day, we can gradually build confidence.\n也可用 little by little 取代 gradually。",
+        "1200",
+        "2400",
+        "300",
+        "2026-10-21 07:00:00"
+      ]
+    }
+  ],
+  "generatedAt": "2026-10-21T00:00:00Z"
+}
