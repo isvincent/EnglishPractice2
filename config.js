@@ -1,1 +1,1 @@
-window.APP_CONFIG = { endpoint: 'https://script.google.com/macros/s/AKfycbww_JLOvs57cf6YfR6mCJflaQo9XRnKpwPIF4n14OoA9IPTwIJN5KDPrfOKMTaRikkJvg/exec', refreshMinutes: 5 };
+window.APP_CONFIG = { endpoint: 'https://script.google.com/macros/s/AKfycbzi6ZYdmkcUUE0-zRp845F0kfuvvEqpmYV7aVt6YtVFZwe4plvRPHCUqE9OHi8Sd-D_6g/exec', refreshMinutes: 5 };
