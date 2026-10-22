@@ -22,7 +22,7 @@ function doGet(e) {
       rows.push({id: 'row-' + (i + 2) + '-' + cells[0], cells: cells});
     });
     result = {ok:true, headers:headers, rows:rows,
-      generatedAt: new Date().toISOString()};
+      targetDate: getTarget_(), generatedAt: new Date().toISOString()};
   } catch (error) {
     // 不將金鑰、試算表ID或內部錯誤傳給公開訪客。
     result = {ok:false, error:'Lesson data unavailable. Check server configuration.'};
